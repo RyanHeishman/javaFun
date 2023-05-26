@@ -1,0 +1,23 @@
+.body{
+	width: 100%;
+	height: 750px;
+	background-image: url("https://images.pexels.com/photos/1268129/pexels-photo-1268129.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2")
+}
+
+.container{
+	width: 100%;
+	height: 750px;
+	display: flex;
+}
+
+
+.left{
+	width: 100%;
+	height: 800px;
+	margin-right: 20px;
+}
+
+.right{
+	width: 100%;
+	height: 800px;
+}
